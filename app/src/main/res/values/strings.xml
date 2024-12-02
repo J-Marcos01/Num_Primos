@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Num_Primos</string>
+    <string name="num">Digite num. de 0 a 50</string>
+    <string name="calc">Calcular</string>
+    <string name="res">Números Primos entre os números  </string>
+    <string name="erro">Valor deve estar entre 0 e 50</string>
+</resources>
